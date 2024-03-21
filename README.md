@@ -1,6 +1,6 @@
 # Read Me for my Lab 1 Project
 
-Link to my map: https://martineztau.github.io/MartinezTau-Lab1/bcservices.html
+Link to my map: https://martineztau.github.io/MartinezTau-GEOS472-Lab1/bcservices.html
 
 Reflective Analysis:
   The purpose of this map was to highlight the avialable mental health and addiction services centers in BC, displaying both locations and concentrations of these locations, and potentially highlight areas which may be lacking in available services. The aimed to target a general audience and show what services were avaialble and where, in a format that was easily understandible and digestible. The data was taken from the BC Open Data Catalogue (https://catalogue.data.gov.bc.ca/dataset/mental-health-and-substance-use-health-services), hence the focus on the Province of BC.
